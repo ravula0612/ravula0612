@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravula0612
 - 👀 I’m interested in learning new things day by day
 - 🌱 I’m currently learning frontEnd development
-- 💞️ I’m looking to collaborate on frontend developerd
+- 💞️ I’m looking to collaborate on frontend developers...
 - 📫 How to reach me +91-8919272599 or email:ravulaanil1204@gmail.com
 
 <!---
